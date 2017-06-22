@@ -38,7 +38,7 @@ import {RecipesModule} from './recipes/recipes.module';
     RecipeService,
     DataStorageService,
     AuthService,
-    AuthGaurd],
+    AuthGaurd ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
